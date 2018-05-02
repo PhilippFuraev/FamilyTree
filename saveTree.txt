@@ -1,0 +1,4 @@
+Petr.40.Vasya.null.Masha.0.312.54.32.20.
+Masha.30.Vasya.null.Petr.0.634.54.45.20.
+Vasya.3.null.Petr,Masha..1.472.104.41.20.
+
